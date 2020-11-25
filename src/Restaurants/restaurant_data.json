@@ -1,0 +1,410 @@
+[
+    {
+        "name": "JJ Deli",
+        "img": [
+            "../Restaurant_Images/jj-deli-phillycheese.jpg",
+            "../Restaurant_Images/jj-deli-sandwiches.jpg",
+            "../Restaurant_Images/jj-deli-steak-sandwich.jpg",
+            "../Restaurant_Images/jj-deli-croissant.jpg",
+            "../Restaurant_Images/jj-deli-cheese-fries.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 5am-5pm Sat: 6am-2pm",
+        "phone": "(718) 392-5500",
+        "cuisine": "Deli Food",
+        "address": "36-19 Review Ave Long Island City, NY 11101",
+        "description": "JJ's Deli offers an atmosphere that is warm and inviting, featuring a wide array of breakfast and lunch dishes and highlighting their freshly baked bagels."
+    },
+
+    {
+        "name": "Sparta Deli",
+        "img": [
+            "../Restaurant_Images/sparta-cheese-fries.jpg",
+            "../Restaurant_Images/sparta-salad.jpg",
+            "../Restaurant_Images/sparta-sandwiches.jpg",
+            "../Restaurant_Images/sparta-salad-crackers.jpg",
+            "../Restaurant_Images/sparta-burger.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 5am-5pm Sat: 6am-2pm",
+        "phone": "(718) 482-0082",
+        "cuisine": "Deli Food, Sandwiches",
+        "address": "31-46 Greenpoint Ave Long Island City, NY 11101",
+        "description": "Every single ingredient Sparta Deli serves is 100% good for you. No nitrates, preservatives, hormones, dyes, GMOs, binders, fillers or artificial flavors. All of their breads are made with sprouted heirloom seeds and are USDA organic and project non-GMO verified."
+    },
+
+    {
+        "name": "Green Point Deli",
+        "img": [
+            "../Restaurant_Images/greenpoint-deli.jpg",
+            "../Restaurant_Images/greenpoint-deli-breakfast.jpg",
+            "../Restaurant_Images/greenpoint-deli-sandwiches.jpg",
+            "../Restaurant_Images/greenpoint-deli-cat.jpg",
+            "../Restaurant_Images/greenpoint-deli-grocery.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Sat: 5am-6pm",
+        "address": "31-24 Greenpoint Ave Long Island City, NY 11101",
+        "phone":"(718) 786-2344",
+        "cuisine": "Deli Food, Sandwiches",
+        "description": "Both a deli and a grocery store. Serves sandwiches, bagels, a variety of breakfasts' and lunches, as well as beer."
+    },
+
+    {
+        "name": "K and H Deli",
+        "img": [
+            "../Restaurant_Images/k-h-baked-potato.jpg",
+            "../Restaurant_Images/k-h-sub.jpg",
+            "../Restaurant_Images/k-h-salad.jpg",
+            "../Restaurant_Images/k-h-burrito.jpg",
+            "../Restaurant_Images/k-h-egg-sandwich.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 5:30am-5:30pm Sat: 5:30am-3pm",
+        "address": "328 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 384-8555",
+        "cuisine": "Deli Food, Sandwiches",
+        "description": "Great local deli for any of your food needs: breakfast, lunch, dinner, smoothies, etc. The food is always fresh and more than enough. Menu consists of both custom and popular sandwich options. Service is quick and the place is kept fairly clean."
+    },
+
+    {
+        "name": "Angelo's Pizza and Deli",
+        "img": [
+            "../Restaurant_Images/angelo-cheese-pizza.jpg",
+            "../Restaurant_Images/angelo-mushroom-pizza.jpg",
+            "../Restaurant_Images/angelo-spaghetti-pizza.jpg",
+            "../Restaurant_Images/angelo-sub.jpg",
+            "../Restaurant_Images/angelo-marinara-pizza.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Fri: 7am-8pm Sat: 7am-6:45pm",
+        "address": "32-19 Greenpoint Ave Long Island City, NY 11101",
+        "phone": "(718) 389-6464",
+        "cuisine": "Deli Food, Pizza, Sandwiches",
+        "description": "Easygoing Sicilian-style pizza spot also serving pasta & baked dishes, plus lunch & dinner specials."
+    },
+
+    {
+        "name": "Bantry Bay Publick House",
+        "img": [
+            "../Restaurant_Images/bantry-bay-burger.jpg",
+            "../Restaurant_Images/bantry-bay-steak.jpg",
+            "../Restaurant_Images/bantry-bay-dumplings.jpg",
+            "../Restaurant_Images/bantry-bay-pasta.jpg",
+            "../Restaurant_Images/bantry-bay-pork-chop.jpeg"
+        ],
+        "price": "$$",
+        "hours": "Daily: 12pm-12am",
+        "address": "33-01 Greenpoint Ave Long Island City, NY 11101",
+        "phone": "(718) 784-9500",
+        "cuisine": "American, Bar Food, Irish",
+        "description": "Unfussy watering hole offering hearty, internationally inspired pub grub & draft beers."
+    },
+
+    {
+        "name": "Van Dam Deli",
+        "img": [
+            "../Restaurant_Images/van-dam-philly.jpeg",
+            "../Restaurant_Images/van-dam-burrito.jpg",
+            "../Restaurant_Images/van-dam-pasta.jpg",
+            "../Restaurant_Images/van-dam-sandwich.jpg",
+            "../Restaurant_Images/van-dam-philly.jpeg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 5am-6pm Sat: 5am-3pm",
+        "address": "52-50 Van Dam St Long Island City, NY 11101",
+        "phone": "(718) 786-9826",
+        "cuisine": "Deli Food, Sandwiches",
+        "description": "Van Dam Deli welcomes diners of all budgets to enjoy its savory fare (and its cheaper-than-cheap menu items). So next time you're looking for some items or sandwiches, Van Dam Deli is your best option in Long Island City."
+    },
+
+    
+    {
+        "name": "Greenpoint Heights",
+        "img": [
+            "../Restaurant_Images/greenpoint-heights-wings.jpg",
+            "../Restaurant_Images/greenpoint-height-soup.jpg",
+            "../Restaurant_Images/greenpoint-height-pancakes.jpg",
+            "../Restaurant_Images/greenpoint-height-salad.jpg",
+            "../Restaurant_Images/greenpoint-height-burger.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Thu: 4pm-2am Fri-Sat: 11am-4am Sun: 11pm-2am",
+        "address": "278 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 389-0110",
+        "cuisine": "American, Bar Food, Mexican",
+        "description": "Homey bar/eatery furnishes tacos & other Mexican grub plus Sunday brunch & rotating beer options."
+    },
+
+    {
+        "name": "The Place Pizzeria Restaurant",
+        "img": [
+            "../Restaurant_Images/place-pizzeria.jpg",
+            "../Restaurant_Images/place-pizzeria-basil-pizza.jpg",
+            "../Restaurant_Images/place-pizzeria-tomato-pizza.jpg",
+            "../Restaurant_Images/place-pizzeria-flat-pizza.jpg",
+            "../Restaurant_Images/place-pizzeria-pepperoni-pizza.jpg"
+        ],
+        "price": "$$$",
+        "hours": "Mon-Fri: 11am-3am Sat-Sun: 11am-4am",
+        "address": "269 Norman Ave Brooklyn, NY 11222",
+        "phone": "(718) 383-1901",
+        "cuisine": "Bar Food, Pizza, Wings",
+        "description": "An exceptional venue that has a very reasonable price, a good selection of beers, and makes pizzas for your event all night."
+    },
+
+    {
+        "name": "John's Deli & Grocery",
+        "img": [
+            "../Restaurant_Images/john-deli.jpg",
+            "../Restaurant_Images/john-deli-sandwiches.jpg",
+            "../Restaurant_Images/john-deli-sub.jpg",
+            "../Restaurant_Images/john-deli-steak-sandwich.jpg",
+            "../Restaurant_Images/john-deli-outside.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Sat: 5:30am-11pm Sun: 7am-11pm",
+        "address": "260 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 389-0313",
+        "cuisine": "Deli Food, Sandwiches",
+        "description": "A Brooklyn landmark established in 1968, The Original John’s Deli takes great pride in it’s reputation for the “Best Hero in Brooklyn.” Come see why!"
+    },
+
+    {
+        "name": "Vinnie's Pizzeria",
+        "img": [
+            "../Restaurant_Images/vinnies-pepperoni-pizza.jpg",
+            "../Restaurant_Images/vinnies-pizza-slices.jpeg",
+            "../Restaurant_Images/vinnies-basil-pizza.jpg",
+            "../Restaurant_Images/vinnies-triple-pizza.jpg",
+            "../Restaurant_Images/vinnies-black-pizza.jpg"
+        ],
+        "price": "$$$",
+        "hours": "Mon-Thurs: 11am-11pm Fri-Sat: 11am-12am Sun: 11am-10pm",
+        "address": "253 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 389-2600",
+        "cuisine": "Pizza, Vegan, Vegetarian",
+        "description": "Rock posters line the walls of this easy spot known for New York-style pies, wings & a beer garden."
+    },
+
+    {
+        "name": "Peking Express",
+        "img": [
+            "../Restaurant_Images/peking-express.jpg",
+            "../Restaurant_Images/peking-express-sushi.jpg",
+            "../Restaurant_Images/peking-express-duck.jpg",
+            "../Restaurant_Images/peking-express-meal.jpg",
+            "../Restaurant_Images/peking-express-orange-chicken.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Sat: 11am-11:30pm Sun: 12pm-11:30pm",
+        "address": "237 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 349-0968",
+        "cuisine": "Chinese",
+        "description": "Basic quarters for Chinese & Asian fare, ramen noodles, sushi & bubble tea, plus takeout & delivery."
+    },
+
+    {
+        "name": "Tropical Deli Cafe",
+        "img": [
+            "../Restaurant_Images/tropical-deli-breakfast.jpg",
+            "../Restaurant_Images/tropical-deli-drink.jpg",
+            "../Restaurant_Images/tropical-deli.jpg",
+            "../Restaurant_Images/tropical-deli-salad.jpg",
+            "../Restaurant_Images/tropical-deli-counter.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Thu: 9am-10pm Fri-Sat: 9am-11am Sun: 9am-10pm",
+        "address": "36-10 Greenpoint Ave Long Island City, NY 11101",
+        "phone": "(718) 392-2734",
+        "cuisine": "Ecuadorian",
+        "description": "Come check out their famous Acai Bowls, as well as  tortas, smoothies, and Shrimp Ceviche! Great healthy breakfast and lunch options! They have some great daily lunch specials!"
+    },
+
+    {
+        "name": "Pisco Sour",
+        "img": [
+            "../Restaurant_Images/pisco-sour-drinks.jpg",
+            "../Restaurant_Images/pisco-sour-cocktail.jpg",
+            "../Restaurant_Images/pisco-sour.jpg",
+            "../Restaurant_Images/pisco-sour-food.jpg",
+            "../Restaurant_Images/pisco-sour-shots.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Thu: 12pm-11pm Fri-Sat: 12pm-12am Sun: 12pm-10:30pm",
+        "address": "3617 Greenpoint Ave LONG ISLAND CITY, NY 11101",
+        "phone": "(718) 392-0007",
+        "cuisine": "Latin American",
+        "description": "Pisco Sour Restaurant and Lounge is a celebration of authentic eats and exotic ingredients. Honoring the rich history and flavor of Peruvian cuisine, their passion for these time-honored dishes is at the heart of their menu."
+    },
+
+    {
+        "name": "Brooklyn Ate Bar",
+        "img": [
+            "../Restaurant_Images/brooklyn-ate-bar-pizza.jpg",
+            "../Restaurant_Images/brooklyn-ate-bar-burger.jpg",
+            "../Restaurant_Images/brooklyn-ate-bar.jpg",
+            "../Restaurant_Images/brooklyn-ate-bar-steak.jpg",
+            "../Restaurant_Images/brooklyn-ate-bar-bbq.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Thu: 5pm-2am Fri-Sat: 5pm-3am Sun: 4pm-1:30am",
+        "address": "199 Russell St Brooklyn, NY 11222",
+        "phone": "(718) 389-0354",
+        "cuisine": "American",
+        "description": "Food menu can be tailored to any specific needs. They will even customize a cocktail specialty for you. All dishes are carefully made in house under the direction of Chef Jillian D'Annunzio. Open bar, drink and food combination packages are available."
+    },
+
+    {
+        "name": "Williams Burger",
+        "img": [
+            "../Restaurant_Images/williams-burger-steak-burger.jpg",
+            "../Restaurant_Images/williams-burger-egg-burger.jpg",
+            "../Restaurant_Images/williams-burger.jpg",
+            "../Restaurant_Images/williams-burger-bacon.jpg",
+            "../Restaurant_Images/williams-burger-inside.jpg"
+        ],
+        "price": "$$",
+        "hours": "Mon-Thu: 11:30am-10pm Fri: 11am-10:45pm Sat: 11:30am-10:45pm Sun: 2pm-10pm",
+        "address": "36-17 Greenpoint Ave Long Island City, NY 11101",
+        "phone": "(718) 786-6969",
+        "cuisine": "American, Burgers, Wings",
+        "description": "Chill atmosphere, good draft beers, burgers and entrees made well.Air conditioning and anonymity....a good place to have a meeting with an old friend or a first date."
+    },
+
+    {
+        "name": "Larcomar Restaurant",
+        "img": [
+            "../Restaurant_Images/larcomar.jpg",
+            "../Restaurant_Images/larcomar-fish.jpg",
+            "../Restaurant_Images/larcomar-stew.jpg",
+            "../Restaurant_Images/larcomar-salad.jpg",
+            "../Restaurant_Images/larcomar-oysters.jpg"
+        ],
+        "price": "$$$",
+        "hours": "Mon-Sun: 12pm–10pm",
+        "address": "3617 Greenpoint Ave Long Island City, NY 11101",
+        "phone": "(718) 389-0404",
+        "cuisine": "Latin American, Peruvian",
+        "description": "Great option for Peruvian food in Larcomar. Everything from the food to the service is amazing. The outdoor seating is perfect overlooking the water from a beautiful vantage point."
+    },
+
+    {
+        "name": "Park Delicatessen",
+        "img": [
+            "../Restaurant_Images/park-sandwich.jpg",
+            "../Restaurant_Images/park.jpg",
+            "../Restaurant_Images/park-sandwich2.jpg",
+            "../Restaurant_Images/park-eggwich.jpg",
+            "../Restaurant_Images/park-options.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 7am-6:30pm Sat: 8am-5pm",
+        "address": "208 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 383-2080",
+        "cuisine": "Deli Food, Sandwiches",
+        "description": "Famous for its hot pastrami sandwich, slathered with Gulden’s mustard, is an exquisite combination of textures and tastes. It’s soft but crispy, tender but chewy, peppery but sour, smoky but tangy. It’s a symphony orchestra, different instruments brought together to play one perfect chord. It … is, in short, a work of art."
+    },
+
+    {
+        "name": "Cafe Edna",
+        "img": [
+            "../Restaurant_Images/cafe-edna-coffee.jpg",
+            "../Restaurant_Images/cafe-edna-stew.jpg",
+            "../Restaurant_Images/cafe-edna-lamb-chops.jpg",
+            "../Restaurant_Images/cafe-edna-steak.jpg",
+            "../Restaurant_Images/cafe-edna-oatmeal.jpg"
+        ],
+        "price": "$$",
+        "hours": "Daily: 7am-6pm",
+        "address": "195 Nassau Ave Brooklyn, NY 11222",
+        "phone": "(718) 383-0323",
+        "cuisine": "Coffee & Tea, Vegetarian",
+        "description": "Breakfast burritos, bagel sandwiches, French press and and espresso drinks made with Toby's Coffee."
+    },
+
+    {
+        "name": "Hungry Burrito",
+        "img": [
+            "../Restaurant_Images/hungry-burrito-bean-burrito.jpg",
+            "../Restaurant_Images/hungry-burrito-skillet.jpg",
+            "../Restaurant_Images/hungry-burrito-big-burrito.jpg",
+            "../Restaurant_Images/hungry-burrito-enchiladas.jpg",
+            "../Restaurant_Images/hungry-burrito-dessert.jpg"
+        ],
+        "price": "$$$",
+        "hours": "Daily: 12pm-10pm",
+        "address": "510 Morgan Ave Brooklyn, NY 11222",
+        "phone": "(718) 387-1006",
+        "cuisine": "Mexican",
+        "description": "Hungry Burrito Seneca is a family-owned and -operated restaurant that serves the best of both the Tex-Mex and traditional Mexican worlds with a gourmet twist."
+    },
+
+    {
+        "name": "Pie Corps",
+        "img": [
+            "../Restaurant_Images/pie-corps-crust-pie.jpg",
+            "../Restaurant_Images/pie-corps-chocolate-pie.jpg",
+            "../Restaurant_Images/pie-corps-variety.jpeg",
+            "../Restaurant_Images/pie-corps-berries.jpg",
+            "../Restaurant_Images/pie-corps-covered-pie.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 8am-8pm Sat: 9am-7pm Sun: 10am-6pm",
+        "address": "77 Driggs Ave Brooklyn, NY 11222",
+        "phone": "(917) 582-2769",
+        "cuisine": "Bakery & Pastries, Desserts",
+        "description": "Bakery known for sweet & savory pies made with locally sourced ingredients, plus classes."
+    },
+
+    {
+        "name": "Little Dokebi",
+        "img": [
+            "../Restaurant_Images/little-dokebi-eggs-steak.jpg",
+            "../Restaurant_Images/little-dokebi-pork.jpg",
+            "../Restaurant_Images/little-dokebi-bar.jpg",
+            "../Restaurant_Images/little-dokebi-wings.jpg",
+            "../Restaurant_Images/little-dokebi-stew.jpg"
+        ],
+        "price": "$$",
+        "hours": "Daily: 12pm-12am",
+        "address": "85 Driggs Ave Brooklyn, NY 11222",
+        "phone": "(718) 349-1383",
+        "cuisine": "Barbecue, Korean",
+        "description": "Korean bibimbop restaurant, plus a full bar built from salvaged materials."
+    },
+
+    {
+        "name": "McDonald's",
+        "img": [
+            "../Restaurant_Images/mcdonalds-chicken-sandwich.jpg",
+            "../Restaurant_Images/mcdonalds-breakfast.jpg",
+            "../Restaurant_Images/mcdonalds.jpg",
+            "../Restaurant_Images/mcdonalds-mcflurry.jpeg",
+            "../Restaurant_Images/mcdonalds-salad.jpg"
+        ],
+        "price": "$",
+        "hours": "Daily: 24hrs",
+        "address": "652 Meeker Ave BROOKLYN, NY 11222",
+        "phone": "(718) 486-6195",
+        "cuisine": "American, Burgers",
+        "description": "Classic, long-running fast-food chain known for its burgers, fries & shakes."
+    },
+
+    {
+        "name": "Sparks Deli",
+        "img": [
+            "../Restaurant_Images/sparks-deli-beans.jpg",
+            "../Restaurant_Images/sparks-deli-oyster-bar.jpg",
+            "../Restaurant_Images/sparks-deli-breakfast.jpg",
+            "../Restaurant_Images/sparks-deli-enchiladas.jpg",
+            "../Restaurant_Images/sparks-deli.jpg"
+        ],
+        "price": "$",
+        "hours": "Mon-Fri: 5am-5pm Sat: 6am-2pm",
+        "address": "28-31 Borden Ave Long Island City, NY 11101",
+        "phone": "(718) 392-0757",
+        "cuisine": "American, Deli Food, Sandwiches",
+        "description": "Fast and quality service, ok prices, and even tables to sit and enjoy your food."
+    }
+]

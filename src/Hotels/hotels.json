@@ -1,0 +1,688 @@
+[
+    {
+        "name": "The Grand NYC Aparments",
+        "rating": "3-Star",
+        "amenities": ["Free Wi-Fi"],
+        "price": 23,
+        "description": "Located within a 5 minutes' walk from Empire State Building, The Grand NYC Apartments provides a shared lounge and free WiFi.",
+        "img": [
+            "../Hotel_Images/GrandHotel_001_Square-700x700.jpg",
+            "../Hotel_Images/grand-hotel-front-desk.jpg",
+            "../Hotel_Images/grand-hotel-lounge.jpg",
+            "../Hotel_Images/grand-hotel-beds.jpg",
+            "../Hotel_Images/grand-hotel-bathroom.jpg",
+            "../Hotel_Images/grand-hotel-kitchen.jpg"
+        ],
+        "link": "https://thegrandnycapartments.findyourhtl.com/"
+    },
+
+    {
+        "name": "Lotus BLU Inn & Suites",
+        "rating": "2-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym"
+        ],
+        "price": 49,
+        "description": "This smoke-free hotel features a 24-hour fitness center, a 24-hour front desk, and ATM/banking services. WiFi in public areas is free.",
+        "img": [
+            "../Hotel_Images/lotus-hotel.webp",
+            "../Hotel_Images/lotus-lounge.jpg",
+            "../Hotel_Images/lotus-bedroom.webp",
+            "../Hotel_Images/lotus-bathroom.jpg",
+            "../Hotel_Images/lotus-front-desk.jpg",
+            "../Hotel_Images/lotus-gym.webp"
+
+        ],
+        "link": "https://www.expedia.com/New-York-Hotels-Lotus-BLU-Inn-Suites.h48642406.Hotel-Information"
+    },
+
+    {
+        "name": "Jazz on The Park Hostel",
+        "rating": "1-Star",
+        "amenities": [
+            "Free Breakfast"
+        ],
+        "price": 51,
+        "description": "Jazz on the Park Hostel is located in the heart of the Upper West Side, along Central Park and super close to subways and buses, so the whole City is at your fingertips.",
+        "img": [
+            "../Hotel_Images/jazz-hotel.jpg",
+            "../Hotel_Images/jazz-front-desk.jpg",
+            "../Hotel_Images/jazz-lounge.jpg",
+            "../Hotel_Images/jazz-beds.jpg",
+            "../Hotel_Images/jazz-bathroom.jpg",
+            "../Hotel_Images/jazz-pool-table.jpg"
+        ],
+        "link": "https://www.jazzhostels.com/jazzlocations/jazz-on-the-park/"
+    },
+
+    {
+        "name": "Doxie Hotel",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast"
+        ],
+        "price": 53,
+        "description": "Doxie Hotel is located in the Times Square area of New York (NY). Only 0.5 mi from the city center, the hotel’s strategic location ensures that guests can quickly and easily reach many local points of interest.",
+        "img": [
+            "../Hotel_Images/doxie-hotel.jpg",
+            "../Hotel_Images/doxie-desks.jpg",
+            "../Hotel_Images/doxie-hotel-hallway.jpg",
+            "../Hotel_Images/doxie-bedroom.webp",
+            "../Hotel_Images/doxie-bedroom2.jpg",
+            "../Hotel_Images/doxie-bathroom.jpg"
+        ],
+        "link": "https://doxiehotel.com/"
+    },
+
+    {
+        "name": "The Local NYC",
+        "rating": "2-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Room Service"
+        ],
+        "price": 55,
+        "description": "This NYC hostel features a fully-equipped common kitchen, free Wi-Fi and a rooftop terrace with skyline views.",
+        "img": [
+            "../Hotel_Images/local-hotel.jpg",
+            "../Hotel_Images/local-lounge.jpg",
+            "../Hotel_Images/local-rooftop.jpg",
+            "../Hotel_Images/local-view.jpg",
+            "../Hotel_Images/local-bed.webp",
+            "../Hotel_Images/local-dining.jpg"
+        ],
+        "link": "http://thelocalny.com/"
+    },
+
+    {
+        "name": "La Quinta Inn",
+        "rating": "2-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast",
+            "Gym",
+            "Free Parking"
+        ],
+        "price": 63,
+        "description": "Basic hotel featuring business & fitness facilities, plus complimentary breakfast & WiFi.",
+        "img": [
+            "../Hotel_Images/quinta-hotel.jpg",
+            "../Hotel_Images/quinta-lounge.jpg",
+            "../Hotel_Images/quinta-rooftop.jpg",
+            "../Hotel_Images/quinta-bedroom.jpg",
+            "../Hotel_Images/quinta-bathroom.jpg",
+            "../Hotel_Images/quinta-breakfast-room.jpg"
+        ],
+        "link": "https://www.wyndhamhotels.com/laquinta/long-island-city-new-york/la-quinta-inn-queens-new-york-city/overview?CID=LC:LQ::GGL:RIO:National:64757&iata=00093796"
+    },
+
+    {
+        "name": "Best Western JFK Airport Hotel",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast"
+        ],
+        "price": 71,
+        "description": "This JFK Airport hotel is just minutes away from John F Kennedy International Airport and the newly opened World Resort Casino.",
+        "img": [
+            "../Hotel_Images/western-hotel.jpg",
+            "../Hotel_Images/western-lounge.jpg",
+            "../Hotel_Images/western-front-desk.jpg",
+            "../Hotel_Images/western-bedroom.jpg",
+            "../Hotel_Images/western-bathroom.jpg",
+            "../Hotel_Images/western-breakfast.png"
+        ],
+        "link": "https://www.bestwestern.com/en_US/book/hotel-rooms.33119.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:33119"
+    },
+
+    {
+        "name": "Hotel 32|32",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Breakfast"
+        ],
+        "price": 74,
+        "description": "A new welcome addition to the boutique hotel experience, each spacious guest suite has floor-to-ceiling windows and offers a home-like atmosphere to accommodate stays of any length.",
+        "img": [
+            "../Hotel_Images/32-32-hotel.jpg",
+            "../Hotel_Images/32hotel-lounge.jpg",
+            "../Hotel_Images/32hotel-rooftop.jpg",
+            "../Hotel_Images/32hotel-bathroom.jpg",
+            "../Hotel_Images/32hotel-room.jpg",
+            "../Hotel_Images/32hotel-kitchen.jpg"
+        ],
+        "link": "https://hotel3232nyc.com/"
+    },
+
+    {
+        "name": "Comfort Inn & Suites",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast",
+            "Gym",
+            "Free Parking"
+        ],
+        "price": 84,
+        "description": "Located in Queens’ Maspeth neighborhood, the hotel is about 20 minutes from some Manhattan and Brooklyn.",
+        "img": [
+            "../Hotel_Images/comfort-hotel.jpg",
+            "../Hotel_Images/comfort-front-desk.webp",
+            "../Hotel_Images/comfort-breakfast.jpg",
+            "../Hotel_Images/comfort-room.jpg",
+            "../Hotel_Images/comfort-bathroom.jpg",
+            "../Hotel_Images/comfort-gym.jpg"
+        ],
+        "link": "https://www.choicehotels.com/new-york/new-york/comfort-inn-hotels/ny548?source=gyxt"
+    },
+
+    {
+        "name": "City Club Hotel",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Dining",
+            "Room Service"
+        ],
+        "price": 86,
+        "description": "City Club Hotel pampers guests with genuine comfort and luxury, offering a subtly chic sanctuary yet also easy proximity to Times Square.",
+        "img": [
+            "../Hotel_Images/city-hotel.jpg",
+            "../Hotel_Images/city-rooftop.jpg",
+            "../Hotel_Images/city-dining.jpg",
+            "../Hotel_Images/city-bedroom.jpg",
+            "../Hotel_Images/city-bathroom.jpg",
+            "../Hotel_Images/city-gym.jpg"
+        ],
+        "link": "https://www.cityclubhotel.com/en-us"
+    },
+
+    {
+        "name": "Paramount Inn",
+        "rating": "2-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast",
+            "Free Parking"
+        ],
+        "price": 90,
+        "description": "Set along Highway 25, this unassuming hotel is 2 miles from Queens County Farm Museum and 3 miles from Belmont Park racecourse.",
+        "img": [
+            "../Hotel_Images/paramount-hotel.jpg",
+            "../Hotel_Images/paramount-lounge.webp",
+            "../Hotel_Images/paramount-breakfast.jpg",
+            "../Hotel_Images/paramount-bed.jpg",
+            "../Hotel_Images/paramount-bathroom.jpg",
+            "../Hotel_Images/paramount-bar.jpg"
+        ],
+        "link": "http://www.paramountinn.nyc/"
+    },
+
+    {
+        "name": "Embassy Suites",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Free Breakfast",
+            "Dining"
+        ],
+        "price": 92,
+        "description": "Polished rooms provide HDTVs and free Wi-Fi, as well as minifridges, microwaves, and tea and coffeemakers.",
+        "img": [
+            "../Hotel_Images/embassy-hotel.jpg",
+            "../Hotel_Images/embassy-fromt-desk.jpg",
+            "../Hotel_Images/embassy-rooftop.jpg",
+            "../Hotel_Images/embassy-room.jpg",
+            "../Hotel_Images/embassy-dining.jpg",
+            "../Hotel_Images/embassy-gym.jpg"
+        ],
+        "link": "https://www.hilton.com/en/hotels/nycmies-embassy-suites-new-york-manhattan-times-square/?SEO_id=GMB-ES-NYCMIES"
+    },
+
+    {
+        "name": "Ravel Hotel Trademark",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Pool/Spa",
+            "Free Breakfast",
+            "Dining"
+        ],
+        "price": 96,
+        "description": "Conveniently located in Long Island City, this well-appointed hotel gives you everything you need for a memorable stay near New York City.",
+        "img": [
+            "../Hotel_Images/ravel-hotel.jpg",
+            "../Hotel_Images/ravel-dining.jpg",
+            "../Hotel_Images/ravel-room.jpg",
+            "../Hotel_Images/ravel-bathroom.jpg",
+            "../Hotel_Images/ravel-pool.webp",
+            "../Hotel_Images/ravel-gym.jpg"
+        ],
+        "link": "https://www.wyndhamhotels.com/trademark/long-island-city-new-york/ravel-hotel-trademark-collection-by-wyndham/overview?CID=LC:TQ::GGL:RIO:National:52325&iata=00065402"
+    },
+
+    {
+        "name": "Holiday Inn Express Queens",
+        "rating": "2-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Parking",
+            "Free Breakfast",
+            "Gym",
+            "Dining"
+        ],
+        "price": 96,
+        "description": "This modern hotel is 4.2 miles from Midtown Manhattan and 4.6 miles from Laguardia Airport.",
+        "img": [
+            "../Hotel_Images/holiday-hotel.jpg",
+            "../Hotel_Images/holiday-elevator.jpg",
+            "../Hotel_Images/holiday-lounge.jpg",
+            "../Hotel_Images/holiday-room.jpg_k=f6e8962798bf7ef7d73081058e719025834b872a502301426d65d2dd16039c8a&o=",
+            "../Hotel_Images/holiday-bathroom.jpg",
+            "../Hotel_Images/holiday-breakfast.jpg"
+        ],
+        "link": "https://www.ihg.com/holidayinnexpress/hotels/us/en/maspeth/mpeny/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-MPENY"
+    },
+
+    {
+        "name": "Stewert Hotel",
+        "rating": "4-Star",
+        "amenities": [
+            "Dining", 
+            "Pool/Spa",
+            "Gym",
+            "Room Service"
+        ],
+        "price": 105,
+        "description": "Located across from Penn Station (a major transportation hub), the Stewart Hotel has a convenient location for getting around the city.",
+        "img": [
+            "../Hotel_Images/stewert-hotel.jpg",
+            "../Hotel_Images/stewert-lounge.webp",
+            "../Hotel_Images/stewert-rooftop.webp",
+            "../Hotel_Images/stewert-room.jpg",
+            "../Hotel_Images/stewert-dining.jpg",
+            "../Hotel_Images/stewart-gym.jpg"
+        ],
+        "link": "https://www.stewarthotelnyc.com/?utm_source=google&utm_medium=GMB&utm_campaign=business_tracking"
+    },
+
+    {
+        "name": "Adria Hotel",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast",
+            "Free Parking",
+            "Dining"
+        ],
+        "price": 124,
+        "description": "Budget spot offering modern lodging & an on-site restaurant, plus free breakfast, WiFi & parking.",
+        "img": [
+            "../Hotel_Images/adria-hotel.jpg",
+            "../Hotel_Images/adria-lounge.jpg",
+            "../Hotel_Images/adria-dining.jpg",
+            "../Hotel_Images/adria-bar.jpg",
+            "../Hotel_Images/adria-room.jpg",
+            "../Hotel_Images/adria-bathroom.jpg"
+        ],
+        "link": "http://www.adriahotelny.com/"
+    },
+
+    {
+        "name": "Aloft New York Brooklyn",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Pool/Spa",
+            "Gym"
+        ],
+        "price": 149,
+        "description": "Trendy lodging with chic rooms, a buzzing bar & a pool, plus a rooftop lounge & free Wi-Fi.",
+        "img": [
+            "../Hotel_Images/aloft-hotel.jpg",
+            "../Hotel_Images/aloft-lounge.jpg",
+            "../Hotel_Images/aloft-rooftop.jpg",
+            "../Hotel_Images/aloft-breakfast.jpg",
+            "../Hotel_Images/aloft-room.webp",
+            "../Hotel_Images/aloft-pool.jpg"
+        ],
+        "link": "https://www.marriott.com/hotels/travel/nycyl-aloft-new-york-brooklyn/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+    },
+
+    {
+        "name": "Renaissance Hotel",
+        "rating": "3-Star",
+        "amenities": [
+            "Dining",
+            "Pool/Spa",
+            "Gym",
+            "Room Service"
+        ],
+        "price": 159,
+        "description": "Polished hotel offering upmarket rooms, most with city views, plus Italian dining & a rooftop pool.",
+        "img": [
+            "../Hotel_Images/renaissance-hotel.jpg",
+            "../Hotel_Images/renaissance-lounge.jpg",
+            "../Hotel_Images/embassy-rooftop.jpg",
+            "../Hotel_Images/renaissance-front-desk.jpg",
+            "../Hotel_Images/renaissance-room.jpg",
+            "../Hotel_Images/renaissance-dining.jpg"
+        ],
+        "link": "https://www.marriott.com/hotels/travel/nycyl-aloft-new-york-brooklyn/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+    },
+
+    {
+        "name": "Hotel Ninety Five",
+        "rating": "2-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast"
+        ],
+        "price": 192,
+        "description": "The guests appreciate the hotel's convenience to public transportation: Archer Av. Station is 3 minutes by foot and Jamaica Center Parsons - Archer Station is 9 minutes.",
+        "img": [
+            "../Hotel_Images/95-hotel.jpg",
+            "../Hotel_Images/95-lounge.jpg",
+            "../Hotel_Images/95-front-desk.jpg",
+            "../Hotel_Images/95-breakfast.jpg",
+            "../Hotel_Images/95-room.jpg",
+            "../Hotel_Images/95-bathroom.jpg"
+        ],
+        "link": "https://hotelninetyfive.com/"
+    },
+
+    {
+        "name": "W Hoboken",
+        "rating": "4-Star",
+        "amenities": [
+            "Pool/Spa",
+            "Gym",
+            "Dining"
+        ],
+        "price": 209,
+        "description": "Stretch out in gorgeously designed rooms and suites, many of which showcase grand NYC views.",
+        "img": [
+            "../Hotel_Images/w-hotel.webp",
+            "../Hotel_Images/w-lounge.jpg",
+            "../Hotel_Images/w-living-room.jpg",
+            "../Hotel_Images/w-rooftop.jpg",
+            "../Hotel_Images/w-room.jpg",
+            "../Hotel_Images/w-bathroom.jpg"
+        ],
+        "link": "https://www.marriott.com/hotels/travel/ewrhb-w-hoboken/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+    },
+
+    {
+        "name": "NU Hotel Brooklyn",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Breakfast",
+            "Gym"
+        ],
+        "price": 219,
+        "description": "The tone is set for a casual cool, yet subtly sophisticated stay by the hardwood floors, cozy chairs and comfortable beds.",
+        "img": [
+            "../Hotel_Images/nu-hotel.jpg",
+            "../Hotel_Images/nu-breakfast.png",
+            "../Hotel_Images/nu-outside.jpg",
+            "../Hotel_Images/nu-gym.jpg",
+            "../Hotel_Images/nu-room.webp",
+            "../Hotel_Images/nu-bathroom.jpg"
+        ],
+        "link": "https://www.nuhotelbrooklyn.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website"
+    },
+
+    {
+        "name": "Umbrella Hotel",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Free Parking",
+            "Free Breakfast",
+            "Gym"
+        ],
+        "price": 233,
+        "description": "Located in Queens, 4.1 miles from Arthur Ashe Stadium, Umbrella Hotel Queens Airports has air-conditioned rooms and a terrace.",
+        "img": [
+            "../Hotel_Images/umbrella-hotel.jpg",
+            "../Hotel_Images/umbrella-elevator.jpg",
+            "../Hotel_Images/umbrella-entrance.webp",
+            "../Hotel_Images/umbrella-room.jpg",
+            "../Hotel_Images/umbrella-room2.jpg",
+            "../Hotel_Images/umbrella-couch.jpg"
+        ],
+        "link": "http://www.umbrellahotel.com/"
+    },
+
+    {
+        "name": "The Williamsburg Hotel",
+        "rating": "5-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Pool/Spa",
+            "Room Service"
+        ],
+        "price": 241,
+        "description": "Situated in a hip commercial area, this upmarket hotel in a stately redbrick building is 4 miles from the Empire State Building.",
+        "img": [
+            "../Hotel_Images/williamsburg-hotel.jpg",
+            "../Hotel_Images/williamsburg-bar.jpg",
+            "../Hotel_Images/williamsburg-dining.jpg",
+            "../Hotel_Images/williamsburg-room.jpg",
+            "../Hotel_Images/williamsburg-rooftop.jpg",
+            "../Hotel_Images/williamsburg-pool.jpeg"
+        ],
+        "link": "https://www.thewilliamsburghotel.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing&__cf_chl_jschl_tk__=ca8144465f7b2939c4fca615629ad20b1eed0107-1590453705-0-AWGwFgsm12xVkXUh-Lgs7gH_hsO0RyRUoJIANJ6wv1i2I9PBIxzNd1RDrtYVurWc1uscZyIAPw-HG7OjDfBmPVLlfRiUUi2RtplfgJFbO8AW9dyls1QECDi0pt0LqAYL7pMEE0V-fw_aaoJ9-VU2pAaZ3lNjCaALLtAm8xxps1KHrndARf2ecrMSequZ79t_O-G0XqKfwENCHhhz34v35OroRjohRTIXzJZIax4aic4cwyLLvCgxegU-Lv_py7AEYmTo-U8eilGvjpsfB7e31_s_NlVq0GzxDtuqJTkqEszTkW6SOuRmTtUkxKP3ksX40iLXBHRuXBGVyrRyLgPl0tk0B2novqRF24gVJc_xC_iZmSAIEXe3pHLhXEAzejH6imKbCjikExWz35tgkEvi_QuhywChdE7vqF38kbKm6f05"
+    },
+
+    {
+        "name": "Cassa Times Square",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Pool/Spa",
+            "Gym"
+        ],
+        "price": 269,
+        "description": "A stunning newly built 4-Star Luxury Hotel with a sleek and upscale feel, featuring a Rooftop Garden Terrace.",
+        "img": [
+            "../Hotel_Images/cassa-hotel.jpg",
+            "../Hotel_Images/cassa-lounge.jpg",
+            "../Hotel_Images/cassa-gym.webp",
+            "../Hotel_Images/cassa-room.jpg",
+            "../Hotel_Images/cassa-rooftop.jpg",
+            "../Hotel_Images/cassa-hottub.jpg"
+        ],
+        "link": "https://www.cassatimessquare.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing"
+    },
+
+    {
+        "name": "Franklin Guesthouse",
+        "rating": "3-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Free Parking",
+            "Pool/Spa",
+            "Gym"
+        ],
+        "price": 305,
+        "description": "Refined industrialism meets modern elegance in this spacious, apartment style loft suites.",
+        "img": [
+            "../Hotel_Images/franklin-hotel.jpeg",
+            "../Hotel_Images/franklin-front-desk.jpg",
+            "../Hotel_Images/franklin-room.webp",
+            "../Hotel_Images/franklin-bathroom.jpg",
+            "../Hotel_Images/franklin-gym.jpg",
+            "../Hotel_Images/franklin-spa.jpg"
+        ],
+        "link": "https://franklinguesthouse.com/"
+    },
+
+    {
+        "name": "Hotel Rivington",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Pool/Spa",
+            "Gym"
+        ],
+        "price": 388,
+        "description": "This sleek, glass high-rise hotel on the Lower East Side is 1 block from the subway and a 3-minute walk from the Tenement Museum.",
+        "img": [
+            "../Hotel_Images/rivington-hotel.jpg",
+            "../Hotel_Images/rivington-lounge.jpg",
+            "../Hotel_Images/rivington-room.jpg",
+            "../Hotel_Images/rivington-bathroom.jpg",
+            "../Hotel_Images/rivington-gym.jpg",
+            "../Hotel_Images/rivington-dining.jpg"
+        ],
+        "link": "https://www.hotelonrivington.com/discover/services/"
+    },
+
+    {
+        "name": "Trump Hotel & Tower",
+        "rating": "5-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Pool/Spa",
+            "Gym",
+            "Room Service"
+        ],
+        "price": 415,
+        "description": "A Forbes Five-Star hotel with a 2 Michelin-Starred restaurant, Trump International Hotel & Tower New York will exceed your expectations.",
+        "img": [
+            "../Hotel_Images/trump-hotel.jpg",
+            "../Hotel_Images/trump-outside.jpg",
+            "../Hotel_Images/trump-entrance.jpeg",
+            "../Hotel_Images/trump-room.jpg",
+            "../Hotel_Images/trump-couch.jpg",
+            "../Hotel_Images/trump-pool.jpg"
+        ],
+        "link": "https://www.trumphotels.com/central-park?utm_source=google-local&utm_medium=organic&utm_campaign=gmb"
+    },
+
+    {
+        "name": "JW Marriott Essex House",
+        "rating": "5-Star",
+        "amenities": [
+            "Gym",
+            "Pool/Spa",
+            "Dining",
+            "Room Service"
+        ],
+        "price": 448,
+        "description": "This upscale NYC hotel is located adjacent to Central Park South and is minutes from Lincoln Center, as well as numerous other attractions.",
+        "img": [
+            "../Hotel_Images/JW-HOTEL.jpg",
+            "../Hotel_Images/jw-entrance.jpg",
+            "../Hotel_Images/jw-rooftop.webp",
+            "../Hotel_Images/jw-dining.jpg",
+            "../Hotel_Images/jw-bar.jpg",
+            "../Hotel_Images/JW-ROOM.jpg"
+        ],
+        "link": "https://www.marriott.com/hotels/travel/nycex-jw-marriott-essex-house-new-york/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+    },
+
+    {
+        "name": "The Langham, Fifth Avenue",
+        "rating": "5-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Gym",
+            "Pool/Spa",
+            "Room Service"
+        ],
+        "price": 492,
+        "description": "Feel the energy of Fifth Avenue, within close proximity to Bryant Park, Madison Square Park and the theater district.",
+        "img": [
+            "../Hotel_Images/langham-hotel.jpg",
+            "../Hotel_Images/langham-lounge.jpg",
+            "../Hotel_Images/langham-rooftop.jpg",
+            "../Hotel_Images/langham-room.jpg",
+            "../Hotel_Images/langham-bathroom.jpg",
+            "../Hotel_Images/langham-spa.jpg"
+        ],
+        "link": "https://www.langhamhotels.com/en/the-langham/new-york/?htl=tlnyc&src=organic&eng=google&size=na&cid=yext_profile&htl=tlnyc&src=organic&eng=google&size=na&cid=yext_profile"
+    },
+
+    {
+        "name": "The Knickerbocker",
+        "rating": "5-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Dining",
+            "Gym",
+            "Room Service"
+        ],
+        "price": 600,
+        "description": "This elegant landmark hotel overlooking Times Square is a minute's walk from the Times Square.",
+        "img": [
+            "../Hotel_Images/knickerbocker-hotel.jpg",
+            "../Hotel_Images/knickerbocker-lounge.webp",
+            "../Hotel_Images/knickerbocker-elevator.jpg",
+            "../Hotel_Images/knickerbocker-rooftop.jpg",
+            "../Hotel_Images/knickerbocker-room.jpg",
+            "../Hotel_Images/knickerbocker-gym.jpg"
+        ],
+        "link": "https://theknickerbocker.com/rooms/"
+    },
+
+    {
+        "name": "The Mark Hotel",
+        "rating": "5-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Pool/Spa",
+            "Dining",
+            "Room Service"
+        ],
+        "price": 795,
+        "description": "This grand hotel is a block from Central Park and an 8-minute walk from the Metropolitan Museum of Art.",
+        "img": [
+            "../Hotel_Images/mark-hotel.jpeg",
+            "../Hotel_Images/mark-hallway.jpg",
+            "../Hotel_Images/mark-lounge.jpg",
+            "../Hotel_Images/mark-dining.jpg",
+            "../Hotel_Images/mark-room.jpg",
+            "../Hotel_Images/mark-rooftop.jpg"
+        ],
+        "link": "https://www.themarkhotel.com/?utm_source=gmb&utm_medium=organic"
+    },
+
+    {
+        "name": "Row Hotel",
+        "rating": "4-Star",
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Dining",
+            "Room Service"
+        ],
+        "price": 1375,
+        "description": "Surrounded by theaters and restaurants, this hip hotel is a 4-minute walk from Times Square.",
+        "img": [
+            "../Hotel_Images/row-hotel.jpg",
+            "../Hotel_Images/row-elevator.jpg",
+            "../Hotel_Images/row-dining.jpg",
+            "../Hotel_Images/row-bar.jpg",
+            "../Hotel_Images/row-room.webp",
+            "../Hotel_Images/row-gym.jpg"
+        ],
+        "link": "https://www.rownyc.com/"
+    }
+]
